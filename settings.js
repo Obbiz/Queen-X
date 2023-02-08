@@ -22,7 +22,7 @@ global.socialm = "AHMAD BOT" //ur github or insta name
 global.location = "Nigeria,Kano," //ur location
 
 //bot bomdy 
-global.ownernomer = "2348136118877" //ur number
+global.ownernomer = "2349131783574" //ur number
 global.premium = ['2348136118877'] //ur premium number
 global.botname = 'σввιzzу _BOT_' //ur bot name
 global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
