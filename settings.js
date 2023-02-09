@@ -24,13 +24,13 @@ global.location = "Nigeria,Kano," //ur location
 //bot bomdy 
 global.ownernomer = "2349131783574" //ur number
 global.premium = ['2348136118877'] //ur premium number
-global.botname = 'σввιzzу _BOT_' //ur bot name
+global.botname = 'σввιzzу' //ur bot name
 global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
 global.websitex = "https:// no" //ur website to be displayed
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark packname
-global.author = "   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
+global.packname = "   σввιzzу" //ur sticker watermark packname
+global.author = "   σввιzzу\n\n\nA whatsapp bot developed by\σввιzzу" //ur sticker watermark author
 global.wm = "👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻." //ur watermark
 
 // Other
